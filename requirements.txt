@@ -1,3 +1,4 @@
 # Runtime dependencies
 # Add packages here, for example:
 # numpy==2.0.2
+numpy
